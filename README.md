@@ -6,6 +6,12 @@ You’ll find:
 - **Design**: `AXI_Design_Code.sv`  
 - **Testbench**: `AXI_tb.sv` (includes interface, sequences, driver, monitor, agent, env, test, and top‐level TB)
 
+I’ve also included Jupyter Notebook files that break down the code step by step, making it easier to understand.  
+You'll find:
+
+- **Design**: `Breaking_down_the_design_code.ipynb`
+- **Testbench**: `Breaking_down_the_testbench.ipynb`
+
 ## AXI Transaction Flow 
 <img width="206" height="373" alt="image" src="https://github.com/user-attachments/assets/bd7c81db-6072-40f0-ae15-2a40041378d0" />
 
